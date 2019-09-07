@@ -1,7 +1,7 @@
 import numpy as np
 
 
-def init_centroids(X, K):
+def init_centroids(K):
     """
     Initializes K centroids that are to be used in K-Means on the dataset X.
 
